@@ -37,8 +37,10 @@ const Services = () => {
     return (
         <div className="page-container">
             <Helmet>
-                <title>Our Services - Sri Aadikonda Astrology</title>
-                <meta name="description" content="Explore our wide range of astrology services including Kundali Analysis, Marriage Matching, Vastu, and more." />
+                <title>Our Services - Vedic Astrology, Vastu, & Pooja Services | Sri Aadikonda</title>
+                <meta name="description" content="Explore our expert astrology services: Kundali Analysis, Match Making, Vastu Shastra, Career Guidance, and Dosha Nivarana Poojas." />
+                <meta name="keywords" content="astrology services, kundali reading, vastu shastra consultation, career astrology, marriage matching services, dosha nivarana pooja" />
+                <link rel="canonical" href="https://www.sriaadikondaastrology.com/services" />
             </Helmet>
             <div className="container">
                 <motion.h1

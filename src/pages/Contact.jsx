@@ -27,8 +27,10 @@ const Contact = () => {
     return (
         <div className="page-container">
             <Helmet>
-                <title>Contact Us - Sri Aadikonda Astrology</title>
-                <meta name="description" content="Get in touch with Sri Aadikonda for astrology consultations. Call or WhatsApp us today." />
+                <title>Contact Sri Aadikonda Astrology - Best Astrologer Near You</title>
+                <meta name="description" content="Contact Sri Aadikonda for astrology consultations. Available via Phone, WhatsApp, and In-person visits in Telangana. Book your appointment today." />
+                <meta name="keywords" content="contact astrologer, astrology consultation booking, astrologer phone number, whatsapp astrologer, astrologer address telangana" />
+                <link rel="canonical" href="https://www.sriaadikondaastrology.com/contact" />
             </Helmet>
             <div className="container">
                 <motion.h1

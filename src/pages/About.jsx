@@ -7,8 +7,10 @@ const About = () => {
     return (
         <div className="page-container">
             <Helmet>
-                <title>About Sri Aadikonda - Expert Astrologer</title>
-                <meta name="description" content="Learn about Sri Aadikonda, a renowned Vedic Astrologer with over 30 years of experience in helping people find peace and prosperity." />
+                <title>About Sri Aadikonda - Renowned Vedic Astrologer | Experience & Vision</title>
+                <meta name="description" content="Learn about Sri Aadikonda, a renowned Vedic Astrologer with 30+ years of experience. Guiding souls towards destiny with accurate predictions and remedies." />
+                <meta name="keywords" content="about sri aadikonda, vedic astrologer biography, astrology experience, famous astrologer profile, spiritual guide" />
+                <link rel="canonical" href="https://www.sriaadikondaastrology.com/about" />
             </Helmet>
             <div className="container">
                 <motion.div

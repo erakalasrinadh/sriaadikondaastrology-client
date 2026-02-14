@@ -59,8 +59,10 @@ const Gallery = () => {
     return (
         <div className="page-container">
             <Helmet>
-                <title>Photo Gallery - Sri Aadikonda Astrology</title>
-                <meta name="description" content="View moments from our spiritual journey, poojas performed, and satisfied client testimonials." />
+                <title>Spiritual Gallery - Poojas, Events & Client Moments | Sri Aadikonda</title>
+                <meta name="description" content="View our spiritual gallery featuring moments from Dosha Nivarana Poojas, special events, and testimonials from our satisfied clients." />
+                <meta name="keywords" content="astrology gallery, spiritual events photos, pooja ceremony images, sri aadikonda photos, client testimonials gallery" />
+                <link rel="canonical" href="https://www.sriaadikondaastrology.com/gallery" />
             </Helmet>
             <div className="container">
                 <motion.h1

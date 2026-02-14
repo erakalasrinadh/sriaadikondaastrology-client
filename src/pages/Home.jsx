@@ -17,7 +17,9 @@ const Home = () => {
         <div className="home-page">
             <Helmet>
                 <title>Sri Aadikonda Astrology - Best Astrologer in Telangana | 30+ Years Experience</title>
-                <meta name="description" content="Consult Sri Aadikonda, the best astrologer in Telangana with 30+ years of experience. Expert in Horoscope, Vastu, Marriage Compatibility, and more. 1 Lakh+ satisfied clients." />
+                <meta name="description" content="Consult Sri Aadikonda, top Vedic Astrologer in Telangana with 30+ years of experience. Expert in Horoscope, Vastu, Marriage Compatibility. 1 Lakh+ trusted clients." />
+                <meta name="keywords" content="best astrologer telangana, vedic astrology, horoscope reading, vastu consultant, marriage matching, famous astrologer hyderabad, sri aadikonda" />
+                <link rel="canonical" href="https://www.sriaadikondaastrology.com/" />
             </Helmet>
 
             {/* Hero Section */}
