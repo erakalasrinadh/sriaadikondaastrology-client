@@ -54,7 +54,7 @@ const Contact = () => {
                             <FaPhone className="info-icon" />
                             <div>
                                 <strong>Phone:</strong>
-                                <p>+91 95159 58278</p>
+                                <p>+91 93811 82565</p>
                             </div>
                         </div>
 
@@ -62,7 +62,7 @@ const Contact = () => {
                             <FaWhatsapp className="info-icon" />
                             <div>
                                 <strong>WhatsApp:</strong>
-                                <p>+91 95159 58278</p>
+                                <p>+91 93811 82565</p>
                             </div>
                         </div>
 
