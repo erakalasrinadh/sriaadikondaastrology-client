@@ -47,7 +47,7 @@ const Home = () => {
                         transition={{ delay: 1, duration: 0.8 }}
                     >
                         <Link to="services" smooth={true} duration={500} className="btn">Explore Services</Link>
-                        <a href="https://wa.me/919515958278" className="btn btn-outline" target="_blank" rel="noopener noreferrer">
+                        <a href="https://wa.me/919381182565" className="btn btn-outline" target="_blank" rel="noopener noreferrer">
                             Consult on WhatsApp
                         </a>
                     </motion.div>

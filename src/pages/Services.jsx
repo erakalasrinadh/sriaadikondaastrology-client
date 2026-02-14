@@ -71,7 +71,7 @@ const Services = () => {
                                     <h3>{service.title}</h3>
                                     <p>{service.description}</p>
                                     <a
-                                        href={`https://wa.me/919515958278?text=I%20am%20interested%20in%20${service.title}`}
+                                        href={`https://wa.me/919381182565?text=I%20am%20interested%20in%20${service.title}`}
                                         className="btn-small btn-outline"
                                         target="_blank"
                                         rel="noopener noreferrer"

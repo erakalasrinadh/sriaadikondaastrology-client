@@ -19,7 +19,7 @@ const Contact = () => {
         e.preventDefault();
         // Construct WhatsApp URL
         const text = `Name: ${formData.name}%0APhone: ${formData.phone}%0AMessage: ${formData.message}`;
-        window.open(`https://wa.me/919515958278?text=${text}`, '_blank');
+        window.open(`https://wa.me/919381182565?text=${text}`, '_blank');
 
         // Optional: Save to backend here
     };

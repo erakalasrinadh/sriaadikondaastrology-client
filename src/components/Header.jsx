@@ -26,7 +26,7 @@ const Header = () => {
                     <a href="#services" className="nav-link" onClick={toggleMenu}>Services</a>
                     <a href="#gallery" className="nav-link" onClick={toggleMenu}>Gallery</a>
                     <a href="#contact" className="nav-link" onClick={toggleMenu}>Contact</a>
-                    <a href="https://wa.me/919515958278" className="btn-small" target="_blank" rel="noopener noreferrer">
+                    <a href="https://wa.me/919381182565" className="btn-small" target="_blank" rel="noopener noreferrer">
                         Consult Now
                     </a>
                 </nav>
