@@ -37,9 +37,9 @@ const Services = () => {
     return (
         <div className="page-container">
             <Helmet>
-                <title>Our Services - Vedic Astrology, Vastu, & Pooja Services | Sri Aadikonda</title>
-                <meta name="description" content="Explore our expert astrology services: Kundali Analysis, Match Making, Vastu Shastra, Career Guidance, and Dosha Nivarana Poojas." />
-                <meta name="keywords" content="astrology services, kundali reading, vastu shastra consultation, career astrology, marriage matching services, dosha nivarana pooja" />
+                <title>Astrology Services - Kundli, Vastu, Marriage & Career | Sri Aadikonda</title>
+                <meta name="description" content="Expert astrology services in Telangana: Kundali Analysis, Marriage Matching, Vastu Consultation, Career Prediction, and Dosha Nivarana Poojas by Sri Aadikonda." />
+                <meta name="keywords" content="Marriage problem solution, Career prediction astrology, Job problem astrology, Financial problem solution astrology, Dosha remedies, Pooja services, Navagraha pooja, Rahu Ketu pooja, Horoscope matching for marriage" />
                 <link rel="canonical" href="https://www.sriaadikondaastrology.com/services" />
             </Helmet>
             <div className="container">

@@ -26,12 +26,12 @@ const About = () => {
                         <h1>About Sri Aadikonda</h1>
                         <p className="lead">Guiding souls towards their true destiny with 30+ years of Vedic wisdom.</p>
                         <p>
-                            Sri Aadikonda is a highly respected astrologer known for his accurate predictions and effective remedies.
-                            With a deep understanding of Vedic scriptures, he specializes in matchmaking, career guidance, financial stability, and health-related issues.
+                            Sri Aadikonda is a highly respected **Vedic Astrologer** known for his accurate predictions and effective remedies.
+                            With a deep understanding of ancient scriptures, he specializes in **matchmaking**, **career guidance**, **financial stability**, and **health-related issues**.
                         </p>
                         <p>
-                            His mission is to bring clarity and peace to individuals confuse by life's challenges.
-                            Having consulted over 1 Lakh clients, his expertise is trusted across Telangana and Andhra Pradesh.
+                            His mission is to bring clarity and peace to individuals confused by life's challenges.
+                            Having consulted over **1 Lakh clients**, his expertise is trusted across **Hyderabad, Vijayawada, Visakhapatnam, Warangal, and Guntur**.
                         </p>
                         <div className="credentials">
                             <div className="credential-item">
