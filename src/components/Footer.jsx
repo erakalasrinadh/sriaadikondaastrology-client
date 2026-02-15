@@ -32,6 +32,7 @@ const Footer = () => {
             </div>
             <div className="footer-bottom">
                 <p>&copy; {new Date().getFullYear()} Sri Aadikonda Astrology. All Rights Reserved.</p>
+                <p>Developed by Srinadh</p>
             </div>
         </footer>
     );
