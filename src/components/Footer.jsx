@@ -24,14 +24,14 @@ const Footer = () => {
 
                 <div className="footer-section">
                     <h4>Contact Us</h4>
-                    <p><FaPhone /> +91 93811 82565</p>
-                    <p><FaWhatsapp /> +91 93811 82565</p>
+                    <p><FaPhone /> +91 9381182565</p>
+                    <p><FaWhatsapp /> +91 9381182565</p>
                     <p><FaEnvelope /> info@sriaadikonda.com</p>
                     <p><FaMapMarkerAlt /> Bada Bazaar Road,Nizamabad,Telangana,503001</p>
                 </div>
             </div>
             <div className="footer-bottom">
-                <p>&copy; {new Date().getFullYear()} Sri Aadikonda Astrology. All Rights Reserved.</p>
+                <p> Sri Aadikonda Astrology</p>
                 <p>Developed by Srinadh</p>
             </div>
         </footer>
